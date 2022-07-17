@@ -27,6 +27,10 @@ date: 2021-03-18T22:03:59-07:00
 | CVE-2021-28372      | Device Impersonation in Kalay Network Registration                    | ThroughTek     | Jake Valletta, Erik Barzdukas, Dillon Franke     | [Advisory](https://github.com/mandiant/Vulnerability-Disclosures/blob/master/FEYE-2021-0020/FEYE-2021-0020.md), [blog](https://www.mandiant.com/resources/mandiant-discloses-critical-vulnerability-affecting-iot-devices)
 
 ## Presentations & Workshops
+### 2022
+* NullCon Berlin (April, 2022) - "Careful Who You Trust - Compromising P2P Cameras at Scale" \[[slides](/uploads/Valletta,%20Barzdukas,%20Franke%20-%20NullCon%202022%20-%20Careful%20Who%20You%20Trust.pdf)\]
+* Qualcomm Product Security Summit (May, 2022) - "Careful Who You Trust - Compromising P2P Cameras at Scale" \[[slides](/uploads/Valletta,%20Barzdukas,%20Franke%20-%20Qualcomm%202022%20-%20Careful%20Who%20You%20Trust.pdf)\]
+
 ### 2021
 * Mandiant Cyber Defense Summit (October, 2021) - "Leveraging P2P Protocol Vulnerabilities to Remotely Compromise IoT Devices"
 ### 2018
