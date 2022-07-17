@@ -13,12 +13,12 @@ date: 2021-03-18T22:03:59-07:00
 | CVE-2017-3750      | Local backups enabled in Lenovo `Security` application      | Lenovo         | Jake Valletta          | Released with 2017-3748 + 2017-3749                   |
 | CVE-2018-18766      | Elevation of privilege in `Call Dispatcher` service       | SiteKiosk         | Jake Valletta          |                    |
 | CVE-2019-11509      | Authenticated remote code execution in administrative interface      | Pulse Secure         | Jake Valletta          | [Advisory](https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44101/)                   |
-| CVE-2020-6917 |  TBD  | HP Support Assistant | Jake Valletta, Rod Deichler | [Advisory](https://support.hp.com/us-en/document/ish_5585999-5586023-16)
-| CVE-2020-6918 |  TBD  | HP Support Assistant | Jake Valletta, Rod Deichler | 
-| CVE-2020-6919 |  TBD  | HP Support Assistant | Jake Valletta, Rod Deichler |  
-| CVE-2020-6920 |  TBD  | HP Support Assistant | Jake Valletta, Rod Deichler |  
-| CVE-2020-6921 |  TBD  | HP Support Assistant | Jake Valletta, Rod Deichler |  
-| CVE-2020-6922 |  TBD  | HP Support Assistant | Jake Valletta, Rod Deichler | 
+| CVE-2020-6917 |  Race Condition Allows Digital Signature Bypassing  | HP Support Assistant | Jake Valletta, Rod Deichler | [Advisory](https://support.hp.com/us-en/document/ish_5585999-5586023-16)
+| CVE-2020-6918 |  Digital Signature Not Checked Prior to Execution  | HP Support Assistant | Jake Valletta, Rod Deichler | [Advisory](https://support.hp.com/us-en/document/ish_5585999-5586023-16)
+| CVE-2020-6919 |  Server Allows Communication with Untrusted Clients  | HP Support Assistant | Jake Valletta, Rod Deichler | [Advisory](https://support.hp.com/us-en/document/ish_5585999-5586023-16)
+| CVE-2020-6920 |  Client Token Not Validated by Server  | HP Support Assistant | Jake Valletta, Rod Deichler | [Advisory](https://support.hp.com/us-en/document/ish_5585999-5586023-16)
+| CVE-2020-6921 |  Directory Traversal Leads to File Output Path Manipulation  | HP Support Assistant | Jake Valletta, Rod Deichler | [Advisory](https://support.hp.com/us-en/document/ish_5585999-5586023-16)
+| CVE-2020-6922 |  Weak Client Token Invalidation Practices Best  | HP Support Assistant | Jake Valletta, Rod Deichler | [Advisory](https://support.hp.com/us-en/document/ish_5585999-5586023-16)
 | CVE-2020-9306      | Hardcoded credentials      | Telsa/Solarcity         | Jake Valletta, Sam Sabetan          | Blog [pt1](https://www.fireeye.com/blog/threat-research/2021/02/solarcity-exploitation-of-x2e-iot-device-part-one.html), [pt2](https://www.fireeye.com/blog/threat-research/2021/02/solarcity-exploitation-of-x2e-iot-device-part-two.html)                   |
 | CVE-2020-12878      | Execution with unnecessary privileges      | Telsa/Solarcity         | Jake Valletta, Sam Sabetan           | Released with 2020-12878                   |
 | CVE-2020-15467      | Authenticated command injection in administrative interface (`vns3:vpn`)      | Cohesive Networks        | Jake Valletta          | [Advisory](https://github.com/fireeye/Vulnerability-Disclosures/blob/master/FEYE-2020-0007/FEYE-2020-0007.md)                    |
